@@ -1,4 +1,1 @@
-<xml xmlns="http://www.w3.org/1999/xhtml">
-  <block type="pxt-on-start"></block>
-  <block type="device_forever"></block>
-</xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id=",@GFp:S47$R3(9iObudx">L码</variable></variables><block type="device_forever" id="MHys_A6W!hSI6Mt|H{{O" x="0" y="0"/><block type="pxt-on-start" id="VsujisI1W{juq#s*A,[#" x="112" y="244"/></xml>
